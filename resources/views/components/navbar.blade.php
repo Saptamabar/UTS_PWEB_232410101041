@@ -35,7 +35,6 @@
         </div>
     </div>
 
-    <!-- Menu Mobile -->
     <div class="mobile-menu hidden md:hidden bg-indigo-700 px-4 py-2 gap-2">
         <a href="#" class="block px-3 py-2 hover:text-indigo-200">Beranda</a>
         <a href="#layanan" class="block px-3 py-2 hover:text-indigo-200">Layanan</a>

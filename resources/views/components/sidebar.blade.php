@@ -41,7 +41,6 @@
     </div>
 </div>
 
-<!-- Mobile navbar -->
 <div class="md:hidden fixed w-full bg-indigo-800 z-10">
     <div class="flex items-center justify-between h-16 px-4">
         <span class="text-white font-semibold">Temanin</span>
