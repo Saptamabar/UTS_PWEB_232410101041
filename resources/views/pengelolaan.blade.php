@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="flex h-screen bg-gray-100">
-    <x-sidebar></x-sidebar>
+    <x-sidebar user="{{  $user['username']  }}"></x-sidebar>
     <div class="flex flex-col flex-1 overflow-hidden pt-16 md:pt-0">
         @include('layout.topbar', ['slot'=>'Pengelolaan'])
 
